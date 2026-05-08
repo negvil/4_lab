@@ -1,0 +1,20 @@
+Всего объектов: 3
+
+Объект 1:
+LowerLimit=1.0
+UpperLimit=44.0
+Range=1.0
+Result=0.0
+---
+Объект 2:
+LowerLimit=1.0
+UpperLimit=55.0
+Range=1.0
+Result=271.2250099441694
+---
+Объект 3:
+LowerLimit=1.0
+UpperLimit=66.0
+Range=1.0
+Result=0.0
+---
